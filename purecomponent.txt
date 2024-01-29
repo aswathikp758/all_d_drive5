@@ -1,0 +1,6 @@
+https://youtu.be/GZFnYAMZXuI
+
+Avoid Rerendering
+Rerendering effect performance speed of application.
+what is Rerendering?
+Value change into console.but state(variable) value cannot change.That is Rerendering.
